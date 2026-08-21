@@ -12,7 +12,7 @@
 # Part 2: Push your local repository to your GitHub account
 For this part of the homework, you might find the information in [this tutorial about setting up remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories) and [this tutorial about working with remote repositores](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository) helpful.
 
-1. Create an empty repository in your GitHub account called 'OEAS895'. Make sure that you initiate a completely empty repository.
+1. Create an empty repository in your GitHub account called 'OEAS805'. Make sure that you initiate a completely empty repository.
 2. In your local folder, set your new GitHub repository as the remote for your project.
 3. Push your local repository to your remote GitHub repository.
 4. Check your git log.
@@ -26,4 +26,4 @@ In order to receive full credit for this assignment, you must show that you have
 
 **If you simply upload your files to your github repo via the website, you will not receive credit for part 2 of the assignment.**
 
-**Please include an AI citation with the tool and the full dialogue if you used AI tools.**
+**Please include an AI citation .md file crediting the tool and including the full dialogue if you used AI tools.**
