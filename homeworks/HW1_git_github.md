@@ -19,8 +19,8 @@ For this part of the homework, you might find the information in [this tutorial 
 5. Save another screenshot of your terminal showing your commands and the terminal outputs as 'HW1_terminal_2.png', save it to your HW1 directory and commit it to your local repository.
 6. Push your new changes to your remote repository.
 
-# Submission:
-To submit your homework, send me the link to your GitHub repository (with the repository containing your text file and two screenshots).
+# Submission (20 points):
+To submit your homework, please copy and paste the link to your GitHub repository into the Canvas assignment called Homework 1. The repository should now contain your text file and two screenshots.
 
 In order to receive full credit for this assignment, you must show that you have properly executed the commands **via the command line**. 
 
