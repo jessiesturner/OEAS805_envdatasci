@@ -39,7 +39,7 @@ Students are expected to attend class in person and fully participate. If you kn
 ## Grades and expectations
 The grading policy for this class is non-competitive; there will be no curve. If everyone in the class does well, everyone will get an A. The grading scheme follows 93-100%=A, 90-92.9%=A-, 87-89.9%=B+, etc. Half of the final grade is based on completion of homeworks, and the other half is based on the final project.
 
-| Grading Summary |
+| Grading Summary | |
 | :-- | :-- |
 | Homeworks	| 50% |
 | Project report | 20% |
