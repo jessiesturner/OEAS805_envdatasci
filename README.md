@@ -38,11 +38,13 @@ Students are expected to attend class in person and fully participate. If you kn
 
 ## Grades and expectations
 The grading policy for this class is non-competitive; there will be no curve. If everyone in the class does well, everyone will get an A. The grading scheme follows 93-100%=A, 90-92.9%=A-, 87-89.9%=B+, etc. Half of the final grade is based on completion of homeworks, and the other half is based on the final project.
-Grading Summary
-Homeworks	50%
-Project report	20%
-Project dataset/code	15%
-Project presentation	15%
+
+| Grading Summary |
+| :-- | :-- |
+| Homeworks	| 50% |
+| Project report | 20% |
+| Project dataset/code | 15% |
+| Project presentation | 15% |
 
 ## Late work policy
 For every day late, 10% of the grade will be deducted from the grade for that assignment. Assignments will not be accepted beyond two weeks after the due date. If work is turned in late, the student is responsible for catching up to the rest of the class and attending office hours to seek help as needed. In the case of field work, conferences, or other important absences, students are expected to bring a plan to the instructor at least one week ahead of time (preferred as early as possible) to arrange to complete the work ahead of time.
@@ -60,10 +62,10 @@ Students are encouraged to self-disclose disabilities that have been verified by
 | Week (Tues) | Topic | Assignment |
 | :--- | :--- | :--- |
 | **1 (8/25)** | Introductions, opening survey<br>Open Science framework and FAIR data<br>Version control (git, GitHub) | HW 1 – git and GitHub (due 8/31) |
-| **2 (9/1)** | Initial data access and exploration<br>Basic plotting in python<br>Oceanographic databases and repositories | HW 2 – Exploratory Data Analysis (due 9/7) |
-| **3 (9/8)** | Project exploration<br>Meetings with instructor about projects | Project outline (due 9/21) |
+| **2 (9/1)** | Initial data access and exploration<br>Basic plotting in python<br> | HW 2 – Exploratory Data Analysis (due 9/28) |
+| **3 (9/8)** | Project exploration<br>Meetings with instructor about projects | Project outline (due 10/5) |
 | **4 (9/15)** | **NO CLASSES THIS WEEK – Conference** | |
-| **5 (9/22)** | Oceanographic toolboxes<br>Mapping toolboxes | |
+| **5 (9/22)** | Oceanographic databases and repositories<br>Oceanographic toolboxes<br>Mapping toolboxes | |
 | **6 (9/29)** | Building packages and sharing code<br>Collaborative workspaces | |
 | **7 (10/6)** | Machine Learning overview<br>Introduction to scikit-learn | HW 3 – Regression (due 10/19) |
 | **8 (10/13)** | **NO CLASS Tuesday 10/13 – Fall Break** | |
