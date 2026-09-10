@@ -17,6 +17,8 @@ your-project-repository/
     └── project_name_exploratory_data_analysis.ipynb
 ```
 
+Here is [example GitHub repository with the correct file structure.] (https://github.com/jessiesturner/AmazingProject)
+
 ### Requirements
 * **`README.md`**: Contains your Project Title and a brief summary of the project.
 * **`CODE/` Folder**: Contains the Jupyter Notebook(s) used for exploratory data analysis.
