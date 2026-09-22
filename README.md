@@ -61,23 +61,22 @@ Students are encouraged to self-disclose disabilities that have been verified by
 
 | Week (Tues) | Topic | Assignment |
 | :--- | :--- | :--- |
-| **1 (8/25)** | Introductions, opening survey<br>Open Science framework and FAIR data<br>Version control (git, GitHub) | HW 1 – git and GitHub (due 8/31) |
-| **2 (9/1)** | Initial data access and exploration<br>Basic plotting in python<br> | HW 2 – Exploratory Data Analysis (due 9/28) |
-| **3 (9/8)** | Project exploration<br>Meetings with instructor about projects | Project outline (due 10/5) |
+| **1 (8/25)** | Introductions, opening survey<br>[Open Science framework and FAIR data](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/slides/OEAS805_git_GitHub_fall2026.pdf)<br>[Version control (git, GitHub)](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/notes/git_exercise.md) | [HW 1 – git and GitHub (due 8/31)](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/homeworks/HW1_git_github.md) |
+| **2 (9/1)** | Initial data access and exploration<br>Basic plotting in python<br> | [HW 2 – Exploratory Data Analysis (due 9/28)](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/homeworks/HW2_EDA_envs.md) |
+| **3 (9/8)** | Project exploration<br>Meetings with instructor about projects | [Project outline (due 10/5)](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/homeworks/Project_outline.md) |
 | **4 (9/15)** | **NO CLASSES THIS WEEK – Conference** | |
-| **5 (9/22)** | Oceanographic databases and repositories<br>Oceanographic toolboxes<br>Mapping toolboxes | |
-| **6 (9/29)** | Building packages and sharing code<br>Collaborative workspaces | |
+| **5 (9/22)** | Environments<br>Exploratory data analysis<br>Oceanographic toolboxes<br>Mapping toolboxes | |
+| **6 (9/29)** | Databases<br>Building packages and sharing code | |
 | **7 (10/6)** | Machine Learning overview<br>Introduction to scikit-learn | HW 3 – Regression (due 10/19) |
 | **8 (10/13)** | **NO CLASS Tuesday 10/13 – Fall Break** | |
 | *(Thurs 10/15)* | Supervised Learning Overview of algorithms<br>Training and testing algorithms | |
 | **9 (10/20)** | Unsupervised learning<br>Clustering Classification | HW 4 – Classification (due 10/26) |
 | **10 (10/27)** | Model evaluation<br>Cross-validation (dealing w/ small training sets) | |
-| **11 (11/3)** | Project development | |
+| **11 (11/3)** | **NO CLASS Tuesday 11/3 – Election Day** | |
+| *(Thurs 11/4)* | Project development | |
 | **12 (11/10)** | Machine Learning applications in oceanography<br>Work on projects | |
 | **13 (11/17)** | Work on projects | |
 | **14 (11/24)** | Work on projects | Project and code review peer evaluation (due 11/30) |
 | *(11/26)* | **NO CLASS 11/26 – THANKSGIVING BREAK** | |
 | **15 (12/1)** | Work on projects<br>In-class project presentations | Project – report and published GitHub repository (due 12/7) |
-| **16 (12/8)** | In-class project presentations (if needed)<br>FAIR data summaries<br>Student opinion surveys | |
-
-
+| **16 (12/8)** | In-class project presentations<br>Closing survey<br>Student opinion surveys | |
