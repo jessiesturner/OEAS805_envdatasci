@@ -36,7 +36,7 @@ A structured directory of field observation databases, time series, remote sensi
 ## 4. Remote Sensing
 * **State Imagery (DEM)** – [For Example: Virginia OrthoImagery](https://vgin.vdem.virginia.gov/pages/orthoimagery)
 * **ArcGIS Online** – [Esri ArcGIS Online Data Hub](https://www.arcgis.com/)
-* **OB.DAAC** – Ocean Biology Distributed Active Archive Center (NASA)](https://oceancolor.gsfc.nasa.gov/)
+* **OB.DAAC** – [Ocean Biology Distributed Active Archive Center (NASA)](https://oceancolor.gsfc.nasa.gov/)
 * **PO.DAAC** – [Physical Oceanography Distributed Active Archive Center (NASA)](https://podaac.jpl.nasa.gov/)
 
 ---
