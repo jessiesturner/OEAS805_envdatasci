@@ -19,7 +19,7 @@ A structured directory of field observation databases, time series, remote sensi
 ---
 
 ## 2. Time Series
-* **Mauna Loa Observatory** – [Keeling Curve Atmospheric $\text{CO}_2$ Record, Hosted by NOAA Global Monitoring Laboratory](https://gml.noaa.gov/ccgg/trends/)
+* **Mauna Loa Observatory** – [Keeling Curve Atmospheric CO2 Record, Hosted by NOAA Global Monitoring Laboratory](https://gml.noaa.gov/ccgg/trends/)
 * **NOAA Tides & Currents** – [Center for Operational Oceanographic Products and Services](https://tidesandcurrents.noaa.gov/)
 * **HOTS** – [Hawaii Ocean Time-series](https://hahana.soest.hawaii.edu/hot/)
 * **BATS** – [Bermuda Atlantic Time-series Study](https://bats.bios.edu/)
