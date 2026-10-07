@@ -11,18 +11,18 @@ You will be working with the `CBP_TWQM_MAIN_WQ_2021_2026_surface.csv` dataset sh
 Create a Jupyter notebook (or a Python script `.py` if you use Spyder) to apply and compare machine learning regression techniques on the dataset.
 
 ### 1. Target Variable Selection
-Choose **one** high-level water quality variable to predict as your target $y$.
+Choose **one** high-level water quality variable to predict as your target.
 * **Constraint:** You may choose *any* target variable **except** water temperature or salinity.
-* Select appropriate inputs (predictor) variables ($X$) from the remaining features in the dataset.
+* Select appropriate inputs (predictor) variables from the remaining features in the dataset.
 * Briefly explain your decisions about what you chose as inputs. 
 
 
 ### 2. Model Implementation (12 points)
-Select **three (3)** different machine learning techniques for regression from those covered in class:
-* Linear Regression
-* $k$-Nearest Neighbors (KNN) Regressor
-* Multi-Layer Perceptron (MLP) Regressor
-* Radius Neighbors Regressor
+Select **three (3)** different machine learning techniques for regression. They can include what we did in class or any other regression technique you think would work. The list we did in class includes:
+* Linear Regression (simple or multiple)
+* $k$-Nearest Neighbors (KNN) Regressor (linear or non-linear)
+* Multi-Layer Perceptron (MLP) Regressor (linear or non-linear)
+* Radius Neighbors Regressor (linear or non-linear)
 
 Fit each model to your data using `scikit-learn`.
 
@@ -32,7 +32,7 @@ For each of the three models:
 * Display the $R^2$ (coefficient of determination) score clearly on or alongside each plot.
 
 ### 4. Hyperparameter Explanation (2 points)
-In Markdown cells (or code comments), concisely justify your choice of hyperparameters for any non-linear models used:
+In Markdown cells or code comments, explain what hyperparameters worked for the respective models used, for example:
 * **KNN:** Why did you choose that specific value for $k$ (number of neighbors)?
 * **MLP:** Why did you choose that network architecture (number of hidden layers and nodes)?
 * **Radius Neighbors:** How did you determine the search radius?
