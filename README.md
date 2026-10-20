@@ -65,12 +65,12 @@ Students are encouraged to self-disclose disabilities that have been verified by
 | **2 (9/1)** | Initial data access and exploration<br>Basic plotting in python<br> | [HW 2 – Exploratory Data Analysis (due 9/28)](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/homeworks/HW2_EDA_envs.md) |
 | **3 (9/8)** | Project exploration<br>Meetings with instructor about projects | [Project outline (due 10/5)](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/homeworks/Project_outline.md) |
 | **4 (9/15)** | **NO CLASSES THIS WEEK – Conference** | |
-| **5 (9/22)** | [Environments](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/slides/OEAS805_Initial_Data_Access_Exploration_part2.pdf)<br>[Exploratory data analysis](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/notebooks/EDA_example.ipynb)<br>Oceanographic toolboxes<br>Mapping toolboxes | |
-| **6 (9/29)** | Databases<br>Building packages and sharing code | |
-| **7 (10/6)** | Machine Learning overview<br>Introduction to scikit-learn | HW 3 – Regression (due 10/19) |
+| **5 (9/22)** | [Environments](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/slides/OEAS805_Initial_Data_Access_Exploration_part2.pdf)<br>[Exploratory data analysis](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/notebooks/EDA_example.ipynb)<br>[Plotting toolboxes](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/notebooks/matplotlib_exercises.ipynb)<br>[Mapping toolboxes](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/notebooks/cartopy_example.ipynb) | |
+| **6 (9/29)** | [Databases](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/notes/oceanographic_and_climate_databases.md)<br>[Building packages and sharing code](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/slides/OEAS805_BuildingPackages-SharingCode.pdf) | |
+| **7 (10/6)** | [Machine Learning overview](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/slides/OEAS805_Machine_Learning_Intro_Supervised.pdf)<br>[Introduction to scikit-learn](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/notebooks/regression_examples.ipynb) | [HW 3 – Regression (due 10/19)](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/homeworks/HW3_ML_Regression.md) |
 | **8 (10/13)** | **NO CLASS Tuesday 10/13 – Fall Break** | |
-| *(Thurs 10/15)* | Supervised Learning Overview of algorithms<br>Training and testing algorithms | |
-| **9 (10/20)** | Classification<br>Unsupervised learning & Clustering Classification | HW 4 – Classification (due 11/2) |
+| *(Thurs 10/15)* | [Supervised Learning Continued](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/slides/OEAS805_Machine_Learning_Intro_Supervised_Part2.pdf)<br>[Regression algorithms](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/notebooks/regression_RF_GP.ipynb) | |
+| **9 (10/20)** | [Classification](https://github.com/jessiesturner/OEAS805_envdatasci/blob/main/slides/OEAS805_Machine_Learning_Classification.pdf)<br>Unsupervised learning & Clustering | HW 4 – Classification (due 11/2) |
 | **10 (10/27)** | Model evaluation<br>Cross-validation (dealing w/ small training sets) | |
 | **11 (11/3)** | **NO CLASS Tuesday 11/3 – Election Day** | |
 | *(Thurs 11/4)* | Project development | |
