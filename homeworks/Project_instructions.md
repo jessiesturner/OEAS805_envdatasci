@@ -18,7 +18,7 @@ You will send the following components to your peer reviewer on Monday November 
 
 Evaluations are due as completed checklists (graded on completion only) on November 30th by 11:59 PM submitted on Canvas.
 
-Then we will incorporate feedback and do the presentations on December 3rd, 5th, and 8th.
+Then we will incorporate feedback and do the presentations on Thursday December 3rd, Tuesday December 8th, and Thursday December 10th.
 
 Final projects are due on Canvas on December 7th by 11:59 PM. 
 
